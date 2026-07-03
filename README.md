@@ -1,1 +1,1 @@
-![Snake](github-user-contribution)
+![Snake](github-user-contribution.svg)
