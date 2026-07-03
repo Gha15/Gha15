@@ -1,1 +1,1 @@
-![Snake](https://githubusercontent.com)
+![Snake](github-user-contribution)
